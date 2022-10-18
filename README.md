@@ -1,4 +1,4 @@
 printf project coded 
 by 
-Nwosu Victor
-Sintayehu Tura
+Ajadi Marvellous Oladayo
+Odediran Philip Oluseyi
